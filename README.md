@@ -8,6 +8,7 @@ Please, perform a Pull Request to add your team solution:
 * Create a pull-request over this repository.
 
 ## Extra challenges for home
+* Add "Bang" as other output for values multiples of 7.
 * Use substitutions sequences to allow any kind of input:
     * Example test (pseudo code):
     ```    
