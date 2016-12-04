@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6D250896-0E1A-49E9-80A2-524C0DB26F20}|Unit Tests">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CSharpKata" expanded="True">
+            <Node name="CSharpKata.Tests" expanded="True">
+              <Node name="CSharpKata" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="KataTests" expanded="True">
+                    <Node name="ShouldReturnMixedSubstitutionsOrNumber" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CSharpKata.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
