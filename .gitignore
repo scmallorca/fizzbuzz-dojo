@@ -3,3 +3,8 @@
 ################################################################################
 
 /jrogalan-csharp/packages
+/jrogalan-csharp/CSharpKata/bin/Debug
+/jrogalan-csharp/.vs/CSharpKata/v14
+/jrogalan-csharp/CSharpKata/obj/Debug
+/jrogalan-csharp/CSharpKata.Tests/obj/Debug
+/jrogalan-csharp/CSharpKata.Tests/bin/Debug
