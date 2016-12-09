@@ -3,7 +3,7 @@ using CSharpKata.Rules;
 using CSharpKata.Katas;
 using NUnit.Framework;
 
-namespace CSharpKata.Tests
+namespace CSharpKata.Tests.TDD
 {
 	[TestFixture()]
 	public class KataTests
